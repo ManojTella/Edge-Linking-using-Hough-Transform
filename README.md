@@ -93,14 +93,18 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-![fl1](https://user-images.githubusercontent.com/94883876/169643302-9b5358da-a4da-4691-b51d-4aee0178d6a0.png)
+![img1](https://user-images.githubusercontent.com/94883876/169661444-bf827657-5d8a-4618-9d76-f13a7fc890ee.jpeg)
+
 <br>
 <br>
+![img2](https://user-images.githubusercontent.com/94883876/169661464-51b1044d-c4eb-4e2b-a0bc-ecb9f46c4cee.jpeg)
+
 <br>
 <br>
 
 ### Canny Edge detector output
-![fl2](https://user-images.githubusercontent.com/94883876/169643309-eeec186b-4fec-4743-9173-053f802ea669.png)
+![img3](https://user-images.githubusercontent.com/94883876/169661478-dfd4cf1e-2cc0-49b5-9233-35f836793702.jpeg)
+
 <br>
 <br>
 <br>
@@ -108,6 +112,8 @@ plt.show()
 
 
 ### Display the result of Hough transform
+![img4](https://user-images.githubusercontent.com/94883876/169661484-ef4c743f-21c9-4b01-a9e0-2384124d11bf.jpeg)
+
 
 <br>
 <br>
