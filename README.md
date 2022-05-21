@@ -94,11 +94,7 @@ plt.show()
 
 ### Input image and grayscale image
 ![img1](https://user-images.githubusercontent.com/94883876/169661444-bf827657-5d8a-4618-9d76-f13a7fc890ee.jpeg)
-
-<br>
-<br>
 ![img2](https://user-images.githubusercontent.com/94883876/169661464-51b1044d-c4eb-4e2b-a0bc-ecb9f46c4cee.jpeg)
-
 <br>
 <br>
 
